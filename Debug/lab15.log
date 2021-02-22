@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\1\source\repos\lab15\lab15\Source.cpp(28,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\1\source\repos\lab15\lab15\Source.cpp(155,9): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\1\source\repos\lab15\lab15\Source.cpp(176): warning C4715: fillArrayByFile: значение возвращается не при всех путях выполнения
+  lab15.vcxproj -> C:\Users\1\source\repos\lab15\Debug\lab15.exe
